@@ -1,0 +1,6 @@
+providers:
+  - url: "https://eth.framework.xyz"
+    config:
+      priority: 2
+      stallTimeout: 200
+      weight: 2
