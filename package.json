@@ -18,7 +18,7 @@
   "license": "MIT",
   "homepage": "https://github.com/rymnc/fallback-provider#readme",
   "dependencies": {
-    "ethers": "^5.0.24",
+    "ethers": "^5.3.0",
     "yaml": "^1.10.0"
   },
   "devDependencies": {
